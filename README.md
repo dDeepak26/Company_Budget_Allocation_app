@@ -17,7 +17,7 @@ This project was developed as part of the course "Developing Front-End Apps with
 
 ## Live Demo
 
-Check out the live demo of the project [here](https://react-budget-app-six.vercel.app/).
+Check out the live demo of the project [here](https://company-budget-allocation-app.vercel.app/).
 
 ## Getting Started
 
@@ -62,10 +62,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-Have any questions or suggestions? Feel free to reach out to me at your-email@example.com.
 
 ## Acknowledgements
 
