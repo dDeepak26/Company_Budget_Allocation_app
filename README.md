@@ -1,5 +1,3 @@
-Certainly! Here's the README file content in Markdown format:
-
 ```markdown
 # Company Budget Allocation App
 
@@ -69,7 +67,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - [Coursera](https://www.coursera.org/)
 - [Vercel](https://vercel.com/)
 
-Thank you for checking out the Company Budget Allocation App! We hope you find it useful.
-```
-
-You can copy and paste this content into your README.md file.
+Thank you for checking out the Company Budget Allocation App! I hope you find it useful.
