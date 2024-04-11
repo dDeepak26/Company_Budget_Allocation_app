@@ -1,4 +1,3 @@
-```markdown
 # Company Budget Allocation App
 
 Welcome to the Company Budget Allocation App! This project is built using React and allows companies to allocate budgets to different departments such as marketing, finance, IT, HR, and sales. It also displays the remaining amount and the amount spent in each department.
